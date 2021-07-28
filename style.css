@@ -1,0 +1,41 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  /* color: p; */
+}
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  color: #575757;
+  margin: 0;
+  padding: 5px;
+}
+.plum-color {
+  color: cadetblue;
+}
+p {
+  color: #b4aaaa;
+  line-height: 2em;
+  font-weight: 500;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.order-food-area {
+  display: flex;
+  padding: 40px;
+  margin-bottom: 150px;
+}
+.half-width {
+  width: 50%;
+  padding: 2%;
+}
+.half-width img {
+  width: 80%;
+}
+.link-button {
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 20px 40px;
+  color: azure;
+  font-weight: 700;
+  background-image: linear-gradient(cadetblue, cornflowerblue);
+}
